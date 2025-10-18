@@ -1,0 +1,2 @@
+# ExamenUnidad2_Patrones_DanielAlejandroGonzalezGutierrez
+Proyecto Captura de datos de Sensores ambientales
